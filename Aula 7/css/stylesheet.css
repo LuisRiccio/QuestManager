@@ -1,0 +1,52 @@
+ul{
+    list-style-type: none;
+    text-align: right;
+    margin-right: 1%;
+    margin-top: 3%;
+      
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: #0080ff;
+    padding: 2%;
+    display: inline;   
+}
+
+li:hover{
+    background-color: #58acfa;
+}
+
+body{
+    background-color: #eeeeee;    
+}
+
+#textotop{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-top: -4%;
+    margin-left: 1%;
+}
+
+#centerpage{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin-top: 5%;
+  border: 10%;
+    width: 99%;
+    height: 30%;
+
+    
+}
+
+br{
+    color: #0080ff;
+}
+
+
+
+
+
+
